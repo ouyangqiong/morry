@@ -1,0 +1,2 @@
+# morry
+a django project
